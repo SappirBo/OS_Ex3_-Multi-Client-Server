@@ -1,0 +1,2 @@
+How to compile Server.c: gcc -pthread -std=gnu99 Server.c -o server
+How to compile Client.c: gcc -std=gnu99 Client.c -o client
